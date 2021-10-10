@@ -12,7 +12,7 @@ test('z to equal 26', () => {
   expect(lettersum("z")).toBe(26);
 });
 
-test('cab to equal 1', () => {
+test('cab to equal 6', () => {
   expect(lettersum("cab")).toBe(6);
 });
 
